@@ -1,0 +1,45 @@
+Servidor (computação):  
+Servidor é um computador ou sistema computacional equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares, atendendo requisições de dispositivos clientes, através de uma ou mais redes (locais ou remotas), capazes de executar aplicações (programas), e ocasionalmente, capacidade de armazenamento de dados.  
+ 
+https://www.qnapbrasil.com.br/blog/post/o-que-e-servidor-armazenamento-de-dados#:~:text=Servidores%20são%20computadores%20ou%20sistemas,capacidade%20de%20armazenamento%20de%20dados. 
+ 
+https://www.controle.net/faq/o-que-sao-servidores 
+ 
+Banco de dados:   
+Banco de dados é uma coleção organizada de informações  estruturadas,  armazenadas eletronicamente como dados em um sistema de computador. 
+Dados referem-se a qualquer informação capturada e armazenada sobre uma pessoa, um lugar, uma coisa ou um objeto.  
+No entanto, um banco de dados é utilizado para armazenar e organizar os dados, de modo que seja fácil gerenciar e acessar eles.  
+ 
+https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20é,banco%20de%20dados%20(DBMS). 
+ 
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-are-databases 
+ 
+Memória (computação):  
+Memória são componentes eletrônicos e, parte de hardware de um dispositivo, que tem como função armazenar dados diversos, em carácter temporário ou permanente, no entanto, existem dois tipos.  
+Memória RAM, é aquela que permite a gravação e a regravação de dados, portanto, se o computador for desligado, por exemplo, perde as informações registradas.  
+Memória ROM, permite a gravação de dados uma única vez, não sendo possível apagar ou editar nenhuma informação, somente acessar a mesma.  
+ 
+https://www.hostmidia.com.br/blog/memoria-o-que-e-para-que-serve/#:~:text=Resumidamente%2C%20memórias%20são%20componentes%20eletrônicos,em%20caráter%20temporário%20ou%20permanente. 
+ 
+https://mundoeducacao.uol.com.br/informatica/memoria-ram-rom.htm#:~:text=De%20uma%20forma%20bastante%20simplificada,sinais%20digitais%20por%20certo%20tempo. 
+ 
+ 
+Sistema de arquivo:  
+ Sistema de arquivo é uma maneira de organizar, armazenar e gerenciar dados em dispositivos de armazenamento, como discos rígidos, SSDs, unidades flash e outros tipos de mídia. Ele fornece uma estrutura que permite ao sistema operacional e aos aplicativos salvar, acessar e manipular arquivos e pastas de forma eficiente. Servidores e storages utilizam vários sistemas operacionais, cada um com seu próprio sistema de arquivos. Os mais usados são: EXT4, XFS, Btrfs, ZFS, NTFS, ReFS, HFS+.  
+ 
+https://www.kingston.com/br/blog/personal-storage/understanding-file-systems 
+ 
+https://www.controle.net/faq/o-que-e-sistema-de-arquivos-file-system 
+ 
+ 
+Jurimetria:  
+Jurimetria é um método que aplica conceitos de estatística ao Direito e faz uma análise precisa de dados a partir de softwares jurídicos e moutras bases de dados, nas quais estão armazenadas informações sobre processos jurídicos, composição de tribunais, provas apresentadas em instruções processuais. Os modelos estatísticos usados na jurimetria ajudam a compreender e analisar esses dados de forma preditiva, comparativa, estatística e descritiva, antecipando tendências e influenciando a tomada de decisões, e então tornando-as mais precisas.  
+ 
+https://ultimatum.com.br/jurimetria-o-que-e-e-qual-a-aplicabilidade-nos-escritorios-e-departamentos-juridicos/ 
+ 
+https://uplexis.com.br/blog/artigos/jurimetria/# 
+ 
+ 
+Portanto, vemos que todos os 5 conceitos trabalham juntos para possibilitar a coleta, armazenamento, 
+processamento e análise de dados legais na prática da jurimetria, influenciando a eficácia e a eficiência dos processos envolvidos.  
+ 
