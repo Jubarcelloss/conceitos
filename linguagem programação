@@ -1,0 +1,36 @@
+Linguagens de programação 
+JAVASCRIPT
+PHYTON
+JAVA 
+
+Semelhanças: 
+Todas são linguagens de programação de alto nível, o que significa que abstraem detalhes complexos do hardware e têm sintaxes mais próximas da linguagem humana comparadas a linguagens de baixo nível como Assembly.
+
+• JavaScript: Principalmente para desenvolvimento web (frontend e backend com Node.js).
+• Python: Usada para desenvolvimento web, ciência de dados, automação, scripting, e muito mais.
+• Java: Amplamente usada em aplicações corporativas, Android, desenvolvimento web (backend) e sistemas embarcados.
+
+A diferença entre eles é na execução e no ambiente. 
+JavaScript:
+	Interpretada e geralmente executada no navegador, mas também pode ser executada no servidor com Node.js.
+	É uma linguagem de script que é executada em tempo de execução em um ambiente de máquina virtual ou navegador.
+Python:
+	Interpretada, executada por um interpretador Python.
+	Utilizada em uma ampla gama de ambientes, desde scripts simples até grandes aplicações e frameworks web como Django e Flask.
+Java:
+	Compilada para bytecode que é executado na Máquina Virtual Java (JVM).
+	A compilação para bytecode permite que o mesmo código Java seja executado em qualquer plataforma que tenha uma JVM, promovendo a portabilidade.
+
+	A) Código JavaScript:
+	
+	console.log("Programacao e Direito na Ibmec");
+	
+	
+	Código phyton: 
+	
+	print(‘Programacao e Direito na Ibmec’!)
+	
+	Código Java:
+	
+	public class Mensagem {public static void main(String[] args) { System.out.println("Programacao e Direito na Ibmec");}}
+
