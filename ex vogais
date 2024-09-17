@@ -1,0 +1,10 @@
+# exercício 2 - pega vogal
+
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = [char for char in texto if char in vogais]
+    return ''.join(resultado)
+
+palavra= 'Leonardo'
+
+print(imprimir_vogais(palavra))
